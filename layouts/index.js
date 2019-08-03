@@ -1,4 +1,3 @@
-import Menu from "../components/Navigation/Menu";
 import Link from 'next/link'
 import Nav from "../components/Navigation/Nav";
 

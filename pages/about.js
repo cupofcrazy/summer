@@ -1,6 +1,5 @@
 import Layout from '../layouts'
 import Head from '../components/Head'
-import Menu from '../components/Menu';
 
 const About = () => {
     return (
